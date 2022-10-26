@@ -1,7 +1,5 @@
 ### Hi there 👋
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tal-kantor-01496b220)
-[![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/tal-kantor-01496b220)
 <!--
 **TalKantor/TalKantor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
