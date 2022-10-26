@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/tal-kantor-01496b220)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tal-kantor-01496b220)
 <!--
 **TalKantor/TalKantor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
