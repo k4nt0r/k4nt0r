@@ -9,6 +9,7 @@
 <a href="https://medium.com/@kant0r" target="_blank">
 <img src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="medium" style="margin-bottom: 5px;" />
 </a>
+<br/>  
 <a href="https://hackerone.com/kant0r" target="_blank">
 <img src="https://img.shields.io/badge/hackerone-111?style=for-the-badge&logo=hackerone&logoColor=white" alt="hackerone" style="margin-bottom: 5px;" />
 </a>
