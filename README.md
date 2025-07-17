@@ -1,4 +1,5 @@
 ### <div align="center">Penetration Tester | Red Teamer</div>  
+<!--
 <div align="center">
 <a href="https://medium.com/@kant0r" target="_blank">
 <img src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="medium" style="margin-bottom: 5px;" />
@@ -19,4 +20,5 @@
 </div>  
   
 
-<br/>  
+<br/> 
+-->
