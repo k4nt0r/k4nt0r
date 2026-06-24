@@ -1,1 +1,1 @@
-### <div align="center">Security Research & Red Team</div>  
+### <div align="center">Security Researcher & Red Teamer</div>  
